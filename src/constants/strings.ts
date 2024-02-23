@@ -1,8 +1,8 @@
 export const GAME_TITLE = 'WORDLE.CL'
-export const GAME_URL = 'https://www.wordle.cl'
+export const GAME_URL = 'https://seerlite.github.io/wordle.cl/'
 export const WIN_MESSAGES = ['¡Excelente!', '¡Increible!', '¡Bien Hecho!', '¡Eres Formidable!', '¡Sec@!','¡Bakan!','¡La Raja!','¡Impresionante!','¡Te Pasaaaaaaste!','¡Como lo hiciste!','¡Uff Buenísimo!']
 export const GAME_COPIED_MESSAGE = 'Copiado al portapeles'
-export const ABOUT_GAME_MESSAGE = 'Sobre wordle.cl'
+export const ABOUT_GAME_MESSAGE = 'Sobre seerlite.github.io/wordle.cl'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'No hay suficientes letras'
 export const WORD_NOT_FOUND_MESSAGE = 'Palabra no encontrada'
 export const HARD_MODE_ALERT_MESSAGE =
@@ -28,4 +28,4 @@ export const HARD_MODE_TEXT = '* Modo díficil activado'
 export const CL_TEXT = (solution: string) =>
   `¿Porque ${solution} es chilen@?`
 export const ABOUT_LINK = (solution: string) =>
-  `https://about.wordle.cl/${solution}.html`
+  ""

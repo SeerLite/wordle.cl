@@ -11,7 +11,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
 	    <p className="text-sm text-gray-500 dark:text-gray-300">
         Este es un juego Open Source -{' '}
         <a
-          href="https://github.com/jtraverso/wordle.cl"
+          href="https://github.com/SeerLite/wordle.cl"
           className="underline font-bold"
         >
           revisa el código aquí
@@ -20,7 +20,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500 dark:text-gray-300">
         Basado en -{' '}
         <a
-          href="https://github.com/cwackerfuss/react-wordle"
+          href="https://github.com/jtraverso/wordle.cl"
           className="underline font-bold"
         >
           revisa el código aquí
