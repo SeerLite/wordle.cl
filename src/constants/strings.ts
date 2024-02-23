@@ -1,4 +1,4 @@
-export const GAME_TITLE = 'WORDLE.CL'
+export const GAME_TITLE = 'WORDLE CHILE'
 export const GAME_URL = 'https://seerlite.github.io/wordle.cl/'
 export const WIN_MESSAGES = ['¡Excelente!', '¡Increible!', '¡Bien Hecho!', '¡Eres Formidable!', '¡Sec@!','¡Bakan!','¡La Raja!','¡Impresionante!','¡Te Pasaaaaaaste!','¡Como lo hiciste!','¡Uff Buenísimo!']
 export const GAME_COPIED_MESSAGE = 'Copiado al portapeles'
